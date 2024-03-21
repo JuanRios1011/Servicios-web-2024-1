@@ -5,9 +5,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "startIndex": "node index.js",
-    "startApp": "app.js",
+    "startApp": "node app.js",
     "operations": "node operations.js",
-    "operaciones": "node operadores.js"
+    "operaciones": "node operadores.js",
+    "operadores_compa": "node operadores_compa.js"
   },
   "keywords": [],
   "author": "",

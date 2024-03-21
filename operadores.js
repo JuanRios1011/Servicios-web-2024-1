@@ -1,4 +1,4 @@
-/*
+
 console.log("operations...")
 let counter = 1000
 //suma
@@ -31,10 +31,10 @@ counter=counter**3
 console.log(counter)
 counter**=2
 console.log(counter)
-*/
-
+/*
 let counter = "100"
 let age = 100
 
 let resultado1 = counter == age 
 let resultado2 = counter === age
+*/

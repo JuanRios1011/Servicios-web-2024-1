@@ -9,7 +9,8 @@
     "operations": "node operations.js",
     "operaciones": "node operadores.js",
     "operadores_compa": "node operadores_compa.js",
-    "operadores_logicos": "node operadores_logicos.js"
+    "string_metodos": "node string_metodos.js",
+    "operadores_logicos2": "node operadores_logicos2.js"
   },
   "keywords": [],
   "author": "",

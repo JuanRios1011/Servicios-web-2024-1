@@ -22,3 +22,4 @@ console.log(counterOne < 99)
 
 console.log("menos igual que <=")
 console.log(counterOne <= 100)
+

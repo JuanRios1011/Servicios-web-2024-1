@@ -10,7 +10,10 @@
     "operaciones": "node operadores.js",
     "operadores_compa": "node operadores_compa.js",
     "string_metodos": "node string_metodos.js",
-    "operadores_logicos2": "node operadores_logicos2.js"
+    "operadores_logicos2": "node operadores_logicos2.js",
+    "arrays": "node arrays.js",
+    "objetos": "node objetos.js",
+    "while": "node while.js"
   },
   "keywords": [],
   "author": "",

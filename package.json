@@ -13,7 +13,9 @@
     "operadores_logicos2": "node operadores_logicos2.js",
     "arrays": "node arrays.js",
     "objetos": "node objetos.js",
-    "while": "node while.js"
+    "while": "node while.js",
+    "dowhile": "node dowhile.js",
+    "for": "node for.js"
   },
   "keywords": [],
   "author": "",
